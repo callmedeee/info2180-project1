@@ -162,3 +162,55 @@ article{
     padding-bottom: 30px;
 }
 
+/* Newsletter Section */
+.newsletter{
+    background-color: #48BB78;
+    height: 255px;
+    padding-bottom: 0%;
+    margin: 0;
+}
+
+.newsletter h3{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+.newsletter p{
+    color: white;
+    text-align: center-left;
+    padding-right: 260px;
+    padding-left: 230px;
+}
+
+input{
+    width: 31%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 5px;
+    float: left;
+    border-color: white;
+    border-style: none;
+    margin-left: 230px;
+    padding-left: 10px;
+  }
+button{
+    width: 18%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 5px;
+    background-color: #5A67D8;
+    border-color: #5A67D8;
+    border-style: none;
+}
+.btn{
+        margin-left: 10px;
+        color: white;
+}
+
+.message {
+    text-align: center;
+    color:white;
+    font-weight: Bold;
+    padding-top: 5px;
+}
+
