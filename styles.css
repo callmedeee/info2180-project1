@@ -55,3 +55,23 @@ a:hover{
     color: #5A67D8;
     text-decoration: none;
 }
+
+/* Overview Section */
+.overview-hero{
+    background-color: #E2E8F0;
+}
+
+.overview-hero .container{
+    height: 250px;
+}
+.overview-hero-image{
+    float: left;
+    padding-left: 45px;
+    padding-right: 50px;
+}
+
+.overview-hero-text{
+    padding-top: 30px;
+    padding-right: 30px;
+}
+
