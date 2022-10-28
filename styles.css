@@ -101,3 +101,36 @@ a:hover{
     color: #48BB78; 
 }
 
+/* Testing Section */
+.testing{
+    background-color: #4A5568;
+
+}
+.testing .container{
+    height: 350px;
+}
+
+.testing h2 {
+    padding-top: 98px;
+    color: white;
+}
+
+.testing p {
+    color: white;
+    padding-right: 370px;
+}
+
+.cta a{
+    position:absolute;
+    right: 370px;
+    top: 1055px;
+    background-color: #48BB78;
+    color: white;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 5px;
+}
+
