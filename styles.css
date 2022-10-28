@@ -214,3 +214,15 @@ button{
     padding-top: 5px;
 }
 
+/* Footer Section */
+footer{
+    background-color: #4A5568;
+    height: 90px;
+    margin :0;
+}
+
+footer .container p{
+    margin-top: 0px;
+    padding-top: 30px;
+    color: white;
+}
