@@ -134,3 +134,31 @@ a:hover{
     border-radius: 5px;
 }
 
+/* Stories Section */
+.stories h2{
+    color: #5A67D8;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.stories img{
+    border-radius: 55%;
+    float: left;
+}
+
+.article-body h3{
+    margin-left: 250px;
+    margin-right: 110px;
+}
+.article-body p{
+    margin-left: 250px;
+    
+}
+
+.article-body a{
+    padding-bottom: 40px;
+    color: #5A67D8;
+}
+article{
+    padding-bottom: 30px;
+}
+
